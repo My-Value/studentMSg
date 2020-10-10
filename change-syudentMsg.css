@@ -4,7 +4,7 @@ html {
 .wrap {
   width: 18.75rem;
   height: 39rem;
-  background-image: url(/changeStudent-topbarbg.jpg);
+  background-image: url(changeStudent-topbarbg.jpg);
   background-size: 100% 100%;
   padding-top: 2.4rem;
   overflow: hidden;
@@ -14,7 +14,7 @@ html {
   margin: auto;
   padding: 0 0.8rem;
   height: 12.5rem;
-  background-image: url(/changeStudent-background.jpg);
+  background-image: url(changeStudent-background.jpg);
   background-size: 100% 100%;
   position: relative;
   margin-bottom: 6.6rem;
