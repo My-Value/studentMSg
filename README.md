@@ -1,2 +1,2 @@
 # studentMSg
-关于学生
+关于学
